@@ -1,0 +1,6 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="FIFA2026" , TSports2
+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTBd-JdYY5gYNwn9oE2KZjwisic_hTki2XXMGimmRLAc20p1vWPKvqvF7Q&s=10",
+http://10.99.99.10:8085/Premium_Tsports/tracks-v1a1/mono.m3u8
