@@ -17,3 +17,13 @@ http://172.16.60.2:8088/205/tracks-v1a1/mono.m3u8
 " tvg-logo="http://10.99.99.10/img/channels/BTV_HD1750866438.png",
 http://10.99.99.10:8085/BTV/index.m3u8
 
+
+
+
+
+#EXTINF:-1 group-title="FIFA2026" , PTVSports
+" tvg-logo="http://10.99.99.10/img/channels/PTV_Sports1727075340.png",
+http://10.99.99.10:8085/PTVSports/index.m3u8
+
+
+
